@@ -1,4 +1,4 @@
-n-body problem simulation using parrarel computing in Java.
+n-body problem simulation using parallel computing in Java.
 
 Usage:
 run Gravity/src/Main.java with following arguments: iterationLimit, nBalls, nThreads, "visualize" if visualization is desired.
