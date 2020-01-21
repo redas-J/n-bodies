@@ -1,4 +1,4 @@
-n-body problem simulation using parrarel computing
+n-body problem simulation using parrarel computing in Java.
 
 Usage:
 run Gravity/src/Main.java with following arguments: iterationLimit, nBalls, nThreads, "visualize" if visualization is desired.
